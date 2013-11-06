@@ -240,7 +240,7 @@ public class FizikselYer extends javax.swing.JFrame {
     }//GEN-LAST:event_btnSilActionPerformed
 
     private void btnKapatActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnKapatActionPerformed
-        // TODO add your handling code here: Ekranı Kapatır. Deneme Yapılıyor.
+        // TODO add your handling code here: Ekranı Kapatır. Deneme Yapılıyor. Kapattık ulen.
         
         veriTabani.BaglantiyiKapat();
 
